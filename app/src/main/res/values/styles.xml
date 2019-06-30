@@ -1,0 +1,38 @@
+<resources>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="TextViewTitle">
+        <item name="android:textSize">@dimen/text_size_title</item>
+    </style>
+
+    <style name="TextViewHeader">
+        <item name="android:textSize">@dimen/text_size_default</item>
+    </style>
+
+    <style name="TextViewSpecial">
+        <item name="android:textSize">@dimen/text_size_title</item>
+    </style>
+
+    <style name="TextViewBody1">
+        <item name="android:textSize">@dimen/text_size_default</item>
+    </style>
+
+    <style name="TextViewBody2">
+        <item name="android:textSize">@dimen/text_size_small</item>
+    </style>
+
+    <style name="TextViewBody3">
+        <item name="android:textSize">@dimen/text_size_mini</item>
+    </style>
+
+</resources>

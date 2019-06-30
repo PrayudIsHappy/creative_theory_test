@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size_title">18sp</dimen>
+    <dimen name="text_size_default">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_mini">10sp</dimen>
+    <dimen name="padding_horizontal">16dp</dimen>
+    <dimen name="padding_vertical">16dp</dimen>
+    <dimen name="image_card_height">160dp</dimen>
+    <dimen name="list_two_line_without_image_layout_height">64dp</dimen>
+    <dimen name="list_two_line_without_image_top_height">32dp</dimen>
+    <dimen name="list_two_line_without_image_bottom_height">20dp</dimen>
+    <dimen name="list_two_line_with_image_layout_height">72dp</dimen>
+    <dimen name="list_two_line_with_image_top_height">36dp</dimen>
+    <dimen name="list_two_line_with_image_bottom_height">20dp</dimen>
+
+</resources>

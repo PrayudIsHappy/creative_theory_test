@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">creative_theory_test</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blank" />
+    <string name="loading">Loading</string>
+    <string name="two_thousand">2000</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="raw_material">Raw material</string>
+    <string name="baht_per_ton">Baht/Ton</string>
+    <string name="price">Price</string>
+    <string name="cart">Cart</string>
+    <string name="name_colon">Name : </string>
+    <string name="amount">Amount</string>
+    <string name="ton">Ton(s)</string>
+    <string name="baht">Baht</string>
+    <string name="confirm">Confirm</string>
+    <string name="total_price">Totla Price</string>
+</resources>

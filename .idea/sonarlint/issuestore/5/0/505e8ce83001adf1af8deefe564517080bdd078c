@@ -1,0 +1,14 @@
+
+Esquid:S11851"(Remove this method to simply inherit it.(¥Ë©8ÁÑûµº-
+Fsquid:S1185N"(Remove this method to simply inherit it.(ßû¢½8ÁÑûµº-
+Fsquid:S1185?"(Remove this method to simply inherit it.(Ö‰ü¼8ÁÑûµº-
+Ksquid:S1185S"(Remove this method to simply inherit it.(º£”úÿÿÿÿ8ÁÑûµº-
+Ksquid:S1185]"(Remove this method to simply inherit it.(İßéàúÿÿÿÿ8ÁÑûµº-
+Ÿsquid:S1186z"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±8—óË¶º-
+ squid:S1186‡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê8—óË¶º-
+psquid:UnusedPrivateMethodÌ"DRemove this unused private "getTotalPriceByConditionReverse" method.(½’õH8¡¸€¸º-
+|squid:S1450"^Remove the "rawMaterialItem" field and declare it as a local variable in the relevant methods.(‡Ó‹‹8±À´¹º-
+Fsquid:S1185X"(Remove this method to simply inherit it.(±íòÑ8ÁÑûµº-
+Fsquid:S1185I"(Remove this method to simply inherit it.(öÿÕÅ8ÁÑûµº-
+Ksquid:S1185b"(Remove this method to simply inherit it.(Ç™²“øÿÿÿÿ8ÁÑûµº-
+Ksquid:S1185D"(Remove this method to simply inherit it.(µ‚µõıÿÿÿÿ8ÁÑûµº-

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "rm0001",
+    "name": "Sand",
+    "picture": "sand",
+    "default_price": 2000
+  },
+  {
+    "id": "rm0002",
+    "name": "Soil",
+    "picture": "soil",
+    "default_price": 2000
+  },
+  {
+    "id": "rm0003",
+    "name": "Glass",
+    "picture": "glass",
+    "default_price": 2000
+  }
+]
