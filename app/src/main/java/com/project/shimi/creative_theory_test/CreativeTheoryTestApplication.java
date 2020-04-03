@@ -8,7 +8,7 @@ import com.orhanobut.hawk.Hawk;
 public class CreativeTheoryTestApplication extends Application {
 
     private static Context context;
-
+///
     @Override
     public void onCreate() {
         super.onCreate();
@@ -21,4 +21,5 @@ public class CreativeTheoryTestApplication extends Application {
     }
 
 }
+
 
